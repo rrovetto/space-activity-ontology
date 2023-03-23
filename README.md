@@ -2,7 +2,7 @@
 An ontology about spaceflight activities and [events](https://github.com/rrovetto/space-event-ontology) occuring in outer space.
 ## Description
 The term 'space activity' is included in the ontology name due to the terms usage in international treaties and agreements  about spaceflight. 
-### scope
+### Scope
 
 ### Purpose
 
